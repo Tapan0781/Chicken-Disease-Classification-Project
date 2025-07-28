@@ -18,7 +18,8 @@ list_of_files = [
     "params.yaml", # For parameters
     "requirements.txt", # For Python dependencies
     "setup.py", # For package setup
-    "research/trials.ipynb" # For Jupyter notebook
+    "research/trials.ipynb", # For Jupyter notebook
+    "templates/index.html" # For HTML template
 ]
 
 for filepath in list_of_files:

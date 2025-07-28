@@ -1,0 +1,21 @@
+#tensorflow == 2.10.1
+pandas
+numpy
+scikit-learn 
+matplotlib
+scipy
+seaborn
+dvc
+notebook
+python-box == 6.0.2
+pyYAML
+tqdm
+types-pyYAML
+Flask
+Flask-Cors
+joblib
+ensure == 1.0.2
+
+-e .
+
+
